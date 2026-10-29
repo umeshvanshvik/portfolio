@@ -1,0 +1,18 @@
+p {
+    font-family: "Parkinsans", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 15px;
+    
+}
+
+h1{
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-size: 30px;
+  }
+  
+  .carousel-item img{
+    height: 400px;
+    width: 100%;
+  }
